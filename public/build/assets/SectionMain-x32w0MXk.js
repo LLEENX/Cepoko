@@ -1,1 +1,0 @@
-import{o as e,c as s,j as n,n as o,u as t}from"./app-BnXZCgYm.js";const c="xl:max-w-6xl xl:mx-auto",_={__name:"SectionMain",setup(r){return(a,l)=>(e(),s("section",{class:o(["p-6",t(c)])},[n(a.$slots,"default")],2))}};export{_,c};

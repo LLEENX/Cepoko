@@ -1,1 +1,0 @@
-import{o as t,c as s,j as o}from"./app-BnXZCgYm.js";import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";const a={},c={class:"bg-gray-50 dark:bg-slate-800 dark:text-slate-100"};function n(e,_){return t(),s("div",c,[o(e.$slots,"default")])}const f=r(a,[["render",n]]);export{f as L};

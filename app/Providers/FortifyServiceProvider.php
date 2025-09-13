@@ -30,7 +30,6 @@ class FortifyServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        // ✅ Tentukan view login pakai Inertia
         Fortify::loginView(function () {
             return Inertia::render('Auth/Login', [
                 'canResetPassword' => Route::has('password.request'),
