@@ -18,7 +18,7 @@ Route::get('/UserOpen', [UserController::class, 'UserOpen'])->name('userStore')-
 //update
 Route::group(['prefix' => 'User'], function(){
     Route::put('/edit/{id}',[ProfileController::class,'update'])->name('user.edit');
-    Route::put('/edit/seller/{id}',[ProfileController::class,'sellerUpdate'])->name('seller.edit');
+    Route::put('/edit/seller/{id}',[ProfileController::class,'sellerUpdate'])->name('user.seller.edit');
 });
 
 //user whislist
