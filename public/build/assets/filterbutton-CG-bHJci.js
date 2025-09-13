@@ -1,0 +1,1 @@
+import{o as r,c as n,O as s}from"./app-BnXZCgYm.js";const c={__name:"filterbutton",setup(a){const e=t=>{s.visit(route("",{category:t}))};return(t,o)=>(r(),n("button",{onClick:o[0]||(o[0]=i=>e("wood"))},"Filter by Wood"))}};export{c as default};

@@ -1,0 +1,1 @@
+import{o as e,c as o,t as s,x as t}from"./app-BnXZCgYm.js";import{_ as a}from"./_plugin-vue_export-helper-DlAUqK2U.js";const c={},n={key:0,class:"alert"};function p(r,f){return r.$page.props.flash.error?(e(),o("div",n,s(r.$page.props.flash.error),1)):t("",!0)}const i=a(c,[["render",p]]);export{i as default};
